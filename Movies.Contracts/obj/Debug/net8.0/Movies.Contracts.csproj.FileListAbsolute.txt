@@ -1,0 +1,11 @@
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.deps.json
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.dll
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.pdb
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.AssemblyInfoInputs.cache
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.AssemblyInfo.cs
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.csproj.CoreCompileInputs.cache
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.dll
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/refint/Movies.Contracts.dll
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.pdb
+/Users/lionsofthecode/RiderProjects/Movies/Movies.Contracts/obj/Debug/net8.0/ref/Movies.Contracts.dll

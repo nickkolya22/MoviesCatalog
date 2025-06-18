@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EW0MB0WDUE5qhcCdBBd6PXe4YukFQ4/FjmyU0xv+gaa+a+rolKfxCLEoLAoEyoIN43iBZeAPD3qXI2F1bwyDoQ==",
+  "success": true,
+  "projectFilePath": "/Users/lionsofthecode/RiderProjects/Movies/Movies.Application/Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/lionsofthecode/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/Users/lionsofthecode/.nuget/packages/fluentvalidation/12.0.0-preview1/fluentvalidation.12.0.0-preview1.nupkg.sha512",
+    "/Users/lionsofthecode/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.0.0-preview1/fluentvalidation.dependencyinjectionextensions.12.0.0-preview1.nupkg.sha512",
+    "/Users/lionsofthecode/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.1.25080.5/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "/Users/lionsofthecode/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/lionsofthecode/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
